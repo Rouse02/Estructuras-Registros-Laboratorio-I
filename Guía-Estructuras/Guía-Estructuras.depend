@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684625403 source:c:\users\rocio\onedrive\escritorio\guía-estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1684625602 source:d:\utn\laboratorio i\trabajos prácticos\guía-estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
